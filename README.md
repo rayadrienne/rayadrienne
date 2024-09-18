@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adrienne! <br/><a href="https://github.com/rayadrienne">Operations</a>, <a href="https://www.linkedin.com/in/adrienne-ray/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Adrienne! <br/><a href="https://github.com/rayadrienne">Operations</a>, <a href="https://www.linkedin.com/in/adrienne-ray/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity/ Operations Projects:</h2>
 
