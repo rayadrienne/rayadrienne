@@ -9,7 +9,7 @@
   - [Setting up the shop]()
     
 - <b>Command and Control</b>
-  - [Setting up the environment]()
+  - [Setting up the environment](https://github.com/rayadrienne/CommandandControl)
   - [Setting up Lima Charlie and Sliver]()
 
 
